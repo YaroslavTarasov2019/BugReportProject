@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "reEOlrfh0A4TO5dStuxjBc6h0ui6978QTGmqtC4ArGw=",
+  "Source": "BugReportApp",
+  "BasePath": "_content/BugReportApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

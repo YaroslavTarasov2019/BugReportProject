@@ -1,0 +1,6 @@
+@BugReportApp_HostAddress = http://localhost:5278
+
+GET {{BugReportApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

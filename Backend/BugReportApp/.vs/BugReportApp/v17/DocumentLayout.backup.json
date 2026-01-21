@@ -1,0 +1,597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\bugreportflow\\bugreportflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\bugreportflow\\bugreportflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\controllers\\bugreportflowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\controllers\\bugreportflowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\file\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\file\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\common\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\common\\commonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\main\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\main\\mainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\form\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\form\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\project\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\project\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\project\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\project\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\main\\usershortdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\main\\usershortdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\main\\testerandprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\main\\testerandprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\main\\projectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\main\\projectdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\main\\projectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\main\\projectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\main\\dataforbugreportsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\main\\dataforbugreportsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\main\\addworkertoprojectbyheaddeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\main\\addworkertoprojectbyheaddeveloper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\main\\addtestertoproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\main\\addtestertoproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\form\\useridrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\form\\useridrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\form\\projectidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\form\\projectidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\form\\bugreportcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\form\\bugreportcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\authentication\\userlogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\authentication\\userlogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\common\\taskassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\common\\taskassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\common\\testerwithtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\common\\testerwithtasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\model\\common\\roleandprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\model\\common\\roleandprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\bugreportflow\\ibugreportflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\bugreportflow\\ibugreportflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\common\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\common\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\modeldb\\bugreportupdatehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\modeldb\\bugreportupdatehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\modeldb\\bugreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\modeldb\\bugreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\form\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\form\\iformservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\main\\imainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\main\\imainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\contexts\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\contexts\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|c:\\users\\yaros\\desktop\\bugreportproject\\backend\\bugreportapp\\bugreportapp\\services\\file\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250787AA-F12A-4821-9EC8-F10C143F9BE5}|BugReportApp\\BugReportApp.csproj|solutionrelative:bugreportapp\\services\\file\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TesterAndProjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\TesterAndProjectDto.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Main\\TesterAndProjectDto.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\TesterAndProjectDto.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Main\\TesterAndProjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:19:42.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectData.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\ProjectData.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Main\\ProjectData.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\ProjectData.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Main\\ProjectData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:18:10.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Main\\MainService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\Main\\MainService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Main\\MainService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\Main\\MainService.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAwwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:38:48.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Controllers\\CommonController.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "BugReportApp\\Controllers\\CommonController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:08:39.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommonService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Common\\CommonService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\Common\\CommonService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Common\\CommonService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\Common\\CommonService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:50:10.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BugReportFlowService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\BugReportFlow\\BugReportFlowService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\BugReportFlow\\BugReportFlowService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\BugReportFlow\\BugReportFlowService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\BugReportFlow\\BugReportFlowService.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAjwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:17:00.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\File\\FileService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\File\\FileService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\File\\FileService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\File\\FileService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:59:26.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BugReportFlowController.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Controllers\\BugReportFlowController.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Controllers\\BugReportFlowController.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Controllers\\BugReportFlowController.cs",
+              "RelativeToolTip": "BugReportApp\\Controllers\\BugReportFlowController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:51:15.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Project\\IProjectService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\Project\\IProjectService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Project\\IProjectService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\Project\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T12:27:49.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Controllers\\FileController.cs",
+              "RelativeToolTip": "BugReportApp\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:58:35.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserShortData.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\UserShortData.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Main\\UserShortData.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\UserShortData.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Main\\UserShortData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:20:15.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Project\\ProjectService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\Project\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Project\\ProjectService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\Project\\ProjectService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:18:46.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Form\\FormService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\Form\\FormService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Form\\FormService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\Form\\FormService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAjwBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:39:00.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\ProjectRequest.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Main\\ProjectRequest.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\ProjectRequest.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Main\\ProjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:18:35.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataForBugReportsRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\DataForBugReportsRequest.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Main\\DataForBugReportsRequest.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\DataForBugReportsRequest.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Main\\DataForBugReportsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:17:32.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddTesterToProject.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\AddTesterToProject.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Main\\AddTesterToProject.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\AddTesterToProject.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Main\\AddTesterToProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:15:58.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddWorkerToProjectByHeadDeveloper.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\AddWorkerToProjectByHeadDeveloper.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Main\\AddWorkerToProjectByHeadDeveloper.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Main\\AddWorkerToProjectByHeadDeveloper.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Main\\AddWorkerToProjectByHeadDeveloper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:15:54.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserIdRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Form\\UserIdRequestDto.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Form\\UserIdRequestDto.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Form\\UserIdRequestDto.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Form\\UserIdRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:14:54.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectIdRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Form\\ProjectIdRequestDto.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Form\\ProjectIdRequestDto.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Form\\ProjectIdRequestDto.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Form\\ProjectIdRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:12:09.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BugReportCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Form\\BugReportCreateDto.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Form\\BugReportCreateDto.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Form\\BugReportCreateDto.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Form\\BugReportCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:10:17.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserLoginData.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Authentication\\UserLoginData.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Authentication\\UserLoginData.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Authentication\\UserLoginData.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Authentication\\UserLoginData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:09:38.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TesterWithTasks.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Common\\TesterWithTasks.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Common\\TesterWithTasks.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Common\\TesterWithTasks.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Common\\TesterWithTasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:09:12.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TaskAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Common\\TaskAssignment.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Common\\TaskAssignment.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Common\\TaskAssignment.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Common\\TaskAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:07:38.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleAndProjectRequest.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Common\\RoleAndProjectRequest.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Model\\Common\\RoleAndProjectRequest.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Model\\Common\\RoleAndProjectRequest.cs",
+              "RelativeToolTip": "BugReportApp\\Model\\Common\\RoleAndProjectRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T12:06:29.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Controllers\\MainController.cs",
+              "RelativeToolTip": "BugReportApp\\Controllers\\MainController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:42:45.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "BugReportApp\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T08:57:00.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBugReportFlowService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\BugReportFlow\\IBugReportFlowService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\BugReportFlow\\IBugReportFlowService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\BugReportFlow\\IBugReportFlowService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\BugReportFlow\\IBugReportFlowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:56:45.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Common\\ICommonService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\Common\\ICommonService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Common\\ICommonService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\Common\\ICommonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:12:25.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IMainService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Main\\IMainService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\Main\\IMainService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Main\\IMainService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\Main\\IMainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:38:58.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BugReport.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\ModelDB\\BugReport.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\ModelDB\\BugReport.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\ModelDB\\BugReport.cs",
+              "RelativeToolTip": "BugReportApp\\ModelDB\\BugReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:35:26.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BugReportUpdateHistory.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\ModelDB\\BugReportUpdateHistory.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\ModelDB\\BugReportUpdateHistory.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\ModelDB\\BugReportUpdateHistory.cs",
+              "RelativeToolTip": "BugReportApp\\ModelDB\\BugReportUpdateHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:35:41.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IFormService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Form\\IFormService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\Form\\IFormService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Form\\IFormService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\Form\\IFormService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:01:09.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Authentication\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\Authentication\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\Authentication\\AuthenticationService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\Authentication\\AuthenticationService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:19:11.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Program.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Program.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Program.cs",
+              "RelativeToolTip": "BugReportApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:02:16.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Contexts\\DBContext.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Contexts\\DBContext.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Contexts\\DBContext.cs",
+              "RelativeToolTip": "BugReportApp\\Contexts\\DBContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:14:43.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\File\\IFileService.cs",
+              "RelativeDocumentMoniker": "BugReportApp\\Services\\File\\IFileService.cs",
+              "ToolTip": "C:\\Users\\yaros\\Desktop\\BugReportProject\\Backend\\BugReportApp\\BugReportApp\\Services\\File\\IFileService.cs",
+              "RelativeToolTip": "BugReportApp\\Services\\File\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:59:05.895Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

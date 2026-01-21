@@ -1,0 +1,432 @@
+[
+  {
+    "ContainingType": "BugReportApp.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Authentication.UserLoginData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.AuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/Authentication/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Authentication.UserRegistrationData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.BugReportFlowController",
+    "Method": "AssignDeveloper",
+    "RelativePath": "api/BugReportFlow/assign-developer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "BugReportApp.Model.BugReportFlow.BugReportDeveloperAssignmentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.BugReportFlowController",
+    "Method": "ConfirmBugFix",
+    "RelativePath": "api/BugReportFlow/confirm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "BugReportApp.Model.BugReportFlow.BugFixConfirmationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.BugReportFlowController",
+    "Method": "NotConfirmBugFix",
+    "RelativePath": "api/BugReportFlow/not-confirm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "BugReportApp.Model.BugReportFlow.BugReportRejectionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.BugReportFlowController",
+    "Method": "PassBugReportOn",
+    "RelativePath": "api/BugReportFlow/pass",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "BugReportApp.Model.BugReportFlow.BugReportPassOnRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.BugReportFlowController",
+    "Method": "RejectBugReport",
+    "RelativePath": "api/BugReportFlow/reject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "BugReportApp.Model.BugReportFlow.BugReportRejectionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.CommonController",
+    "Method": "AssignTasks",
+    "RelativePath": "api/Common/assignTasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Common.TaskAssignment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.CommonController",
+    "Method": "GetBugById",
+    "RelativePath": "api/Common/getBugById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Common.BugIdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.CommonController",
+    "Method": "GetDeveloperByIdProject",
+    "RelativePath": "api/Common/getDeveloperByIdProject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Common.ProjectIdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.CommonController",
+    "Method": "GetStatisticsInformation",
+    "RelativePath": "api/Common/getStatisticsInformation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Common.RoleAndProjectRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.CommonController",
+    "Method": "GetTestersByProject",
+    "RelativePath": "api/Common/getTestersByProject",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.FileController",
+    "Method": "DownloadFile",
+    "RelativePath": "api/File/download/{fileId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fileId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.FileController",
+    "Method": "Upload",
+    "RelativePath": "api/File/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ContentType",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "ContentDisposition",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Headers",
+        "Type": "Microsoft.AspNetCore.Http.IHeaderDictionary",
+        "IsRequired": false
+      },
+      {
+        "Name": "Length",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FileName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.FormController",
+    "Method": "CreateBugReport",
+    "RelativePath": "api/Form/createBugReport",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Form.BugReportCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.FormController",
+    "Method": "CreateProject",
+    "RelativePath": "api/Form/createProject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Form.ProjectCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.FormController",
+    "Method": "GetProjectTitle",
+    "RelativePath": "api/Form/getProjectTitle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Form.ProjectIdRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.FormController",
+    "Method": "GetUserNameAndSurname",
+    "RelativePath": "api/Form/getUserNameAndSurname",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Form.UserIdRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.MainController",
+    "Method": "ChooseDeveloper",
+    "RelativePath": "api/Main/chooseDeveloper",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Main.AddWorkerToProjectByHeadDeveloper",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.MainController",
+    "Method": "ChooseHeadTester",
+    "RelativePath": "api/Main/chooseHeadTester",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Main.AddWorkerToProjectByHeadDeveloper",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.MainController",
+    "Method": "ChooseTester",
+    "RelativePath": "api/Main/chooseTester",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Main.AddTesterToProject",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.MainController",
+    "Method": "GetAllBugReportsForProject",
+    "RelativePath": "api/Main/getAllBugReportsForProject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Main.DataForBugReportsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.MainController",
+    "Method": "GetFullInfoAboutProject",
+    "RelativePath": "api/Main/getFullInfoAboutProject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Main.ProjectRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.MainController",
+    "Method": "GetTasks",
+    "RelativePath": "api/Main/getTasks",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Main.TesterAndProjectDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BugReportApp.Controllers.ProjectController",
+    "Method": "SelectProjectsByUser",
+    "RelativePath": "api/Project/selectProjects",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "BugReportApp.Model.Project.UserIdRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
